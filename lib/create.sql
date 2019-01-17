@@ -1,1 +1,1 @@
-CREATE TABLE field 
+CREATE TABLE field (id INTEGER PRIMARY KEY, age INTEGER, gender TEXT, color TEXT, temperament INTEGER, alive TEXT)
