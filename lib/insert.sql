@@ -4,5 +4,5 @@ INSERT INTO bears  (name, age, gender, color, temperament, alive) values ("Britn
 INSERT INTO bears  (name, age, gender, color, temperament, alive) values ("Tom" 5, "Male", "Chocolate", 7, "Alive");
 INSERT INTO bears  (name, age, gender, color, temperament, alive) values  ("Brady", 7, "Male", "Chocolate", 8, "Alive");
 INSERT INTO bears  (name, age, gender, color, temperament, alive) values ("Marshall", 2, "Male" "Brown", 4, "Alive");
-INSERT INTO bears (name, age, gender, color, tem("Mathers", 9, "Male", "Black", 4, "Alive");
-INSERT INTO bears ("Cassie", 4, "Female", "Brown", 4, "Alive");
+INSERT INTO bears  (name, age, gender, color, termperament, alive) values ("Mathers", 9, "Male", "Black", 4, "Alive");
+INSERT INTO bears  (name, age, gender, color, termperament, alive) values ("Cassie", 4, "Female", "Brown", 4, "Alive");
